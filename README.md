@@ -582,7 +582,9 @@ Com a chegada e popularização dos celulares e tablets, se tornou **fundamental
 
 ```css
 @media (max-width: 600px) {
-	font-size: 1.3rem;
+	h1 {
+		font-size: 1.3rem;
+	}
 }
 ```
 
